@@ -6,4 +6,4 @@ This tool was a prototype for an active nuget scanner which will give you few im
 This is a prototype, and I am working on updating it to have a UI and .NET Core nuggets Support, 
 Cheers,
 
-<img src="../Screenshot.png" />
+<img src="Screenshot.png" />
